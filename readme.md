@@ -9,8 +9,6 @@ This addon for [Tales of Maj'Eyal](https://te4.org/) adds a wooden bonk sound to
 
 [Download](https://te4.org/games/addons/tome/staffbonksound)
 
-[Forum](n/a)
-
 ## Changelog
 
 v1.0.0
