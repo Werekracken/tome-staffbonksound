@@ -9,6 +9,8 @@ tags = {"staff", "bonk", "sound"}
 homepage = "https://te4.org/user/102798/addons"
 description = [[Adds a wooden bonk sound to melee hits when using a staff. That's all this addon does. Really, that's it. It's dumb.
 
+https://github.com/Werekracken/tome-staffbonksound
+
 ---Changelog
 v1.0.0
 Initial release
